@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario {
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    background-color: gainsboro;
+    height: 50vh;
+}
+
+.lottie{
+    background-color:black;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
